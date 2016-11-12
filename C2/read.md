@@ -1,0 +1,1 @@
+ARIMA linear model
